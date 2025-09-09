@@ -12,7 +12,7 @@
 
 ### @ask-design/react-native
 
-包如其名，服务于 React Native 的设计架构，多种框架供开发者使用
+包如其名，服务于 React Native 的设计架构，多种可服用供开发者使用
 
 ### @soften/bamboo
 
