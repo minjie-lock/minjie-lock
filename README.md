@@ -26,7 +26,7 @@
 
 剔除繁琐的基础组件引入，优化编码体验
 
-仓库地址：<a href="https://github.com/minjie-lock/soften/metro">@soften/metro</a>
+仓库地址：<a href="https://github.com/minjie-lock/soften.metro">@soften/metro</a>
 
 ###  @soften/react-router ↔️
 
