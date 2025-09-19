@@ -38,7 +38,7 @@
 
 从公司业务代码解耦出来的 hooks 库
 
-仓库地址：<a href="https://github.com/minjie-lock/soften.hooks"@soften/hooks</a>
+仓库地址：<a href="https://github.com/minjie-lock/soften.hooks">@soften/hooks</a>
 
 
 
