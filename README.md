@@ -7,6 +7,7 @@
 ![React Native](https://img.shields.io/badge/ReactNative-22314E?style=flat-square&logo=react&logoColor=#37bcd5)
 ![TypeScript](https://img.shields.io/badge/Typescript-22314E?style=flat-square&logo=typescript&logoColor=#fff)
 ![Python](https://img.shields.io/badge/Python-22314E?style=flat-square&logo=python&logoColor=#fff)
+![Django](https://img.shields.io/badge/Django-22314E?style=flat-square&logo=django&logoColor=#fff)
 
 ## 社区贡献
 
