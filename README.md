@@ -25,13 +25,13 @@
 
 ### @soften/metro 🚇
 
-剔除繁琐的基础组件引入，优化编码体验
+剔除 React Native 中繁琐的基础组件引入，优化编码体验
 
 仓库地址：<a href="https://github.com/minjie-lock/soften.metro">@soften/metro</a>
 
 ###  @soften/react-router ↔️
 
-与 react-router 结合，实现路由守卫功能
+与 React Router 结合，实现路由守卫功能
 
 仓库地址：<a href="https://github.com/minjie-lock/soften.react-router">@soften/react-router</a>
 
